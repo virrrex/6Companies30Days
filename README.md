@@ -9,3 +9,4 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 2. <a href="https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/">Overlapping Rectangles</a>
 - 3. <a href="https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/">Count the Subarrays having Product Less than k</a>
 - 4. <a href="https://practice.geeksforgeeks.org/problems/run-length-encoding/1/">Run Length Encoding</a>
+- 5. <a href="https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/">Ugly Numbers</a>
