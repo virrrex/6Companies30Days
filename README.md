@@ -12,5 +12,6 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 5. <a href="https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/">Ugly Numbers</a>
 - 6. <a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/">GCD of Strings</a>
 - 7. <a href="https://www.geeksforgeeks.org/distributing-m-items-circle-size-n-starting-k-th-position/">Distribute In Circle</a>
+- 8. <a href="https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/">Total Decoding Messages</a>
 
 - 12. <a href="https://www.geeksforgeeks.org/program-to-find-number-of-squares-on-a-chessboard/">Squares in a Chess Board</a>
