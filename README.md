@@ -11,3 +11,4 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 4. <a href="https://practice.geeksforgeeks.org/problems/run-length-encoding/1/">Run Length Encoding</a>
 - 5. <a href="https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/">Ugly Numbers</a>
 - 6. <a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/">GCD of Strings</a>
+- 7. <a href="https://www.geeksforgeeks.org/distributing-m-items-circle-size-n-starting-k-th-position/">Distribute In Circle</a>
