@@ -15,5 +15,5 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 8. <a href="https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/">Total Decoding Messages</a>
 - 9. <a href="https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1">Number Following a Pattern</a>
 - 10. <a href="https://www.geeksforgeeks.org/python-program-to-find-n-largest-elements-from-a-list/">Max 10 numbers in a list having 10M entries</a>
-
+- 11. <a href="https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1">Find Missing And Repeating</a>
 - 12. <a href="https://www.geeksforgeeks.org/program-to-find-number-of-squares-on-a-chessboard/">Squares in a Chess Board</a>
