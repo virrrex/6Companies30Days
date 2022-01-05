@@ -20,3 +20,8 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 13. <a href="https://practice.geeksforgeeks.org/problems/decode-the-string2444/1">Decode the String</a>
 - 14. <a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Minimum Size Subarray Sum</a>
 - 15. <a href="https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1">Array Pair Sum Divisibility Problem</a>
+
+### Day 6-10 :
+#### Company: Amazon
+
+- 2. <a href="https://leetcode.com/problems/longest-mountain-in-array/1">Longest Mountain in Array</a>
