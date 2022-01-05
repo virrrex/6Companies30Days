@@ -24,4 +24,5 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 ### Day 6-10 :
 #### Company: Amazon
 
+- 1. <a href="https://practice.geeksforgeeks.org/problems/maximum-profit4657/1">Calculating Maximum Profit</a>
 - 2. <a href="https://leetcode.com/problems/longest-mountain-in-array/1">Longest Mountain in Array</a>
