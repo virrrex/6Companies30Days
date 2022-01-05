@@ -19,3 +19,4 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 12. <a href="https://www.geeksforgeeks.org/program-to-find-number-of-squares-on-a-chessboard/">Squares in a Chess Board</a>
 - 13. <a href="https://practice.geeksforgeeks.org/problems/decode-the-string2444/1">Decode the String</a>
 - 14. <a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Minimum Size Subarray Sum</a>
+- 15. <a href="https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1">Array Pair Sum Divisibility Problem</a>
