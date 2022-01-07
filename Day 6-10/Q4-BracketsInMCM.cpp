@@ -6,15 +6,15 @@ public:
     int brackets[1001][1001];
     int dp[1001][1001];
     
-    void getParanthesis(int i, int j, int n, char &name, string &ans){
+    void getParanthesis(int i, int j, char &name, string &ans){
         if(i == j){
             ans += name;
             name++;
             return;
         }
         ans += '(';
-        getParanthesis(i, brackets[i][j], n, name, ans);
-        getParanthesis(brackets[i][j] + 1, j, n, name, ans);
+        getParanthesis(i, brackets[i][j], name, ans);
+        getParanthesis(brackets[i][j] + 1, j, name, ans);
         ans += ')';
     }
     int MCM(int ar[], int i, int j){
@@ -39,7 +39,7 @@ public:
         int cost = MCM(p, 1, n-1);
         char name = 'A';
         string ans = "";
-        getParanthesis(1, n-1, n, name, ans);
+        getParanthesis(1, n-1, name, ans);
         return ans;
     }
 };
