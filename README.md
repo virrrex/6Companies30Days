@@ -30,3 +30,4 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 4. <a href="https://practice.geeksforgeeks.org/problems/brackets-in-matrix-chain-multiplication1024/1">Brackets in Matrix Chain Multiplication</a>
 - 5. <a href="https://practice.geeksforgeeks.org/problems/phone-directory4628/1/1">Phone Directory</a>
 - 6. <a href="https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1">Maximum of all Subarrays of size k</a>
+- 7. <a href="https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1">First non-repeating character in a stream</a>
