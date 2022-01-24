@@ -38,3 +38,4 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 12. <a href="https://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1/">Column name from a given column number</a>
 - 13. <a href="https://leetcode.com/problems/rotting-oranges/">Rotten Oranges</a>
 - 14. <a href="https://practice.geeksforgeeks.org/problems/burning-tree/1/">Burning Tree</a>
+- 15. <a href="https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/">Delete N nodes after M nodes of a linked list</a>
