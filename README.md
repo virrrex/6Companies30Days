@@ -34,3 +34,4 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 8. <a href="https://practice.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter1322/1/">Count ways to N'th Stair (Order does not matter)</a>
 - 9. <a href="https://practice.geeksforgeeks.org/problems/is-sudoku-valid4820/1/">Is Sudoku Valid</a>
 - 10. <a href="https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1/">Nuts and Bolts Problem</a>
+- 11. <a href="https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1">Serialize and Deserialize a Binary Tree</a>
