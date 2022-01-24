@@ -37,3 +37,4 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 11. <a href="https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1">Serialize and Deserialize a Binary Tree</a>
 - 12. <a href="https://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1/">Column name from a given column number</a>
 - 13. <a href="https://leetcode.com/problems/rotting-oranges/">Rotten Oranges</a>
+- 14. <a href="https://practice.geeksforgeeks.org/problems/burning-tree/1/">Burning Tree</a>
