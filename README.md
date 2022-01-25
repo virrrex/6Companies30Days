@@ -44,3 +44,4 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 #### Company: Microsoft
 
 - 3. <a href="https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/">Rotate by 90 degree</a>
+- 4. <a href="https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/">Spirally traversing a matrix</a>
