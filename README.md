@@ -48,3 +48,4 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 3. <a href="https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/">Rotate by 90 degree</a>
 - 4. <a href="https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/">Spirally traversing a matrix</a>
 - 5. <a href="https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1">Stock span problem</a>
+- 6. <a href="https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1/">Possible Words From Phone Digits</a>
