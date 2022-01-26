@@ -44,6 +44,7 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 #### Company: Microsoft
 
 - 1. <a href="https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/">Minimum sum partition</a>
+- 2. <a href="https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/">Prerequisite Tasks</a>
 - 3. <a href="https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/">Rotate by 90 degree</a>
 - 4. <a href="https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/">Spirally traversing a matrix</a>
 - 5. <a href="https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1">Stock span problem</a>
