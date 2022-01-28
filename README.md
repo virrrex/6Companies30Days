@@ -53,3 +53,4 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 8. <a href="https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1/">Connect Nodes at Same Level</a>
 - 9. <a href="https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1/">Count Number of SubTrees having given Sum</a>
 - 10. <a href="https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1/">Stickler Thief</a>
+- 11. <a href="https://practice.geeksforgeeks.org/problems/generate-binary-numbers-1587115620/1/">Generate Binary Numbers</a>
