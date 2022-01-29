@@ -58,3 +58,8 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 13. <a href="https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1">Bridge Edge in a Graph</a>
 - 14. <a href="https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/">Minimum Steps to Destination</a>
 - 15. <a href="https://practice.geeksforgeeks.org/problems/alien-dictionary/1/">Alien Dictionary</a>
+
+### Day 16-20 :
+#### Company: Adobe
+
+- 4. <a href="https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1">Partition Equal Subset Sum</a>
