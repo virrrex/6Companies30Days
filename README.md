@@ -55,4 +55,5 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 10. <a href="https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1/">Stickler Thief</a>
 - 11. <a href="https://practice.geeksforgeeks.org/problems/generate-binary-numbers-1587115620/1/">Generate Binary Numbers</a>
 - 12. <a href="https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1">Find All Four Sum Numbers</a>
-- 13. <a href="https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1">Bridge edge in a graph</a>
+- 13. <a href="https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1">Bridge Edge in a Graph</a>
+- 14. <a href="https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/">Minimum Steps to Destination</a>
