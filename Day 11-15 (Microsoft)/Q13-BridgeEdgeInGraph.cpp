@@ -28,3 +28,5 @@ class Solution
             return  0 ;
     }
 };
+
+// Similar LC 1192

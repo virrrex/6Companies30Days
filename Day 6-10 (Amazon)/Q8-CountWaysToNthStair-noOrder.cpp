@@ -12,3 +12,5 @@ class Solution
         return m/2 + 1ll;
     }
 };
+
+// https://stackoverflow.com/questions/62871148/count-ways-to-nth-stairorder-does-not-matter

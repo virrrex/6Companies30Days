@@ -42,3 +42,5 @@ class Solution{
         return ans_rev;
     }
 };
+
+// https://www.youtube.com/watch?v=wMMwRK-w0r4
