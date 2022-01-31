@@ -62,6 +62,7 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 ### Day 16-20 :
 #### Company: Adobe
 
+- 1. <a href="https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1">Subarray with given sum</a>
 - 4. <a href="https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1">Partition Equal Subset Sum</a>
 - 6. <a href="https://practice.geeksforgeeks.org/problems/generate-all-possible-parentheses/1/">Generate Parentheses</a>
 - 8. <a href="https://practice.geeksforgeeks.org/problems/implement-atoi/1/">Implement Atoi</a>
