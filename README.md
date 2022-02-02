@@ -66,5 +66,6 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 2. <a href="https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression1019/1/">Longest Arithmetic Progression</a>
 - 3. <a href="https://practice.geeksforgeeks.org/problems/7b9d245852bd8caf8a27d6d3961429f0a2b245f1/1/">Number of distict Words with k maximum contiguous vowels</a>
 - 4. <a href="https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1">Partition Equal Subset Sum</a>
+- 5. <a href="https://practice.geeksforgeeks.org/problems/express-as-sum-of-power-of-natural-numbers5647/1">Express as sum of power of natural numbers</a>
 - 6. <a href="https://practice.geeksforgeeks.org/problems/generate-all-possible-parentheses/1/">Generate Parentheses</a>
 - 8. <a href="https://practice.geeksforgeeks.org/problems/implement-atoi/1/">Implement Atoi</a>
