@@ -68,4 +68,5 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 4. <a href="https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1">Partition Equal Subset Sum</a>
 - 5. <a href="https://practice.geeksforgeeks.org/problems/express-as-sum-of-power-of-natural-numbers5647/1">Express as sum of power of natural numbers</a>
 - 6. <a href="https://practice.geeksforgeeks.org/problems/generate-all-possible-parentheses/1/">Generate Parentheses</a>
+- 7. <a href="https://practice.geeksforgeeks.org/problems/pots-of-gold-game/1/">Pots of Gold Game</a>
 - 8. <a href="https://practice.geeksforgeeks.org/problems/implement-atoi/1/">Implement Atoi</a>
