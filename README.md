@@ -73,3 +73,4 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 9. <a href="https://practice.geeksforgeeks.org/problems/next-higher-palindromic-number-using-the-same-set-of-digits5859/1/">Next higher palindromic number using the same set of digits</a>
 - 10. <a href="https://practice.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1/">Winner of an election</a>
 - 11. <a href="https://practice.geeksforgeeks.org/problems/amend-the-sentence3235/1">Amend The Sentence</a>
+- 12. <a href="https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1/">Leaders in an array</a>
