@@ -71,3 +71,4 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 7. <a href="https://practice.geeksforgeeks.org/problems/pots-of-gold-game/1/">Pots of Gold Game</a>
 - 8. <a href="https://practice.geeksforgeeks.org/problems/implement-atoi/1/">Implement Atoi</a>
 - 9. <a href="https://practice.geeksforgeeks.org/problems/next-higher-palindromic-number-using-the-same-set-of-digits5859/1/">Next higher palindromic number using the same set of digits</a>
+- 10. <a href="https://practice.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1/">Winner of an election</a>
