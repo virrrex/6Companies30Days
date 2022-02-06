@@ -77,3 +77,8 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 13. <a href="https://practice.geeksforgeeks.org/problems/minimum-insertions-to-make-two-arrays-equal/1/">Minimum operations to convert array A to B</a>
 - 14. <a href="https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1/">Smallest range in K lists</a>
 - 15. <a href="#">Most Recent Library</a>
+
+### Day 21-25 :
+#### Company: Intuit
+
+- 1. <a href="https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/">Minimum sum partition</a>
