@@ -82,3 +82,4 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 #### Company: Intuit
 
 - 1. <a href="https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/">Minimum sum partition</a>
+- 2. <a href="https://practice.geeksforgeeks.org/problems/word-search/1/">Word Search</a>
