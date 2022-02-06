@@ -74,5 +74,6 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 10. <a href="https://practice.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1/">Winner of an election</a>
 - 11. <a href="https://practice.geeksforgeeks.org/problems/amend-the-sentence3235/1">Amend The Sentence</a>
 - 12. <a href="https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1/">Leaders in an array</a>
+- 13. <a href="https://practice.geeksforgeeks.org/problems/minimum-insertions-to-make-two-arrays-equal/1/">Minimum operations to convert array A to B</a>
 - 14. <a href="https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1/">Smallest range in K lists</a>
 - 15. <a href="#">Most Recent Library</a>
