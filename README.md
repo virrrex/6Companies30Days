@@ -90,3 +90,4 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 #### Company: Walmart
 
 - 4. <a href="https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1/">Number of Unique Paths</a>
+- 6. <a href="https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1/">Power Of Numbers</a>
