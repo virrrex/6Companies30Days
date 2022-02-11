@@ -90,6 +90,7 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 7. <a href="https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/">Capacity To Ship Packages Within D Days</a>
 - 8. <a href="https://leetcode.com/problems/number-of-boomerangs/">Number of Boomerangs</a>
 - 9. <a href="https://leetcode.com/problems/pacific-atlantic-water-flow/">Pacific Atlantic Water Flow</a>
+- 10. <a href="https://leetcode.com/problems/number-of-provinces/">Number of Provinces</a>
 
 ### Day 21-25 :
 #### Company: Walmart
