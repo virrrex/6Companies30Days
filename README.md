@@ -92,6 +92,7 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 9. <a href="https://leetcode.com/problems/pacific-atlantic-water-flow/">Pacific Atlantic Water Flow</a>
 - 10. <a href="https://leetcode.com/problems/number-of-provinces/">Number of Provinces</a>
 - 11. <a href="https://leetcode.com/problems/construct-quad-tree/">Construct Quad Tree</a>
+- 12. <a href="https://leetcode.com/problems/course-schedule-ii/">Couse Schedule II</a>
 
 ### Day 21-25 :
 #### Company: Walmart
