@@ -95,6 +95,7 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 12. <a href="https://leetcode.com/problems/course-schedule-ii/">Couse Schedule II</a>
 - 13. <a href="https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/">Minimum Swaps to Arrange a Binary Grid</a>
 - 14. <a href="https://leetcode.com/problems/as-far-from-land-as-possible/">As Far from Land as Possible</a>
+- 14. <a href="https://leetcode.com/problems/koko-eating-bananas/">Koko Eating Bananas</a>
 
 ### Day 21-25 :
 #### Company: Walmart
