@@ -100,6 +100,7 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 ### Day 21-25 :
 #### Company: Walmart
 
+- 1. <a href="https://leetcode.com/problems/path-with-maximum-probability/">Path with Maximum Probability</a>
 - 4. <a href="https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1/">Number of Unique Paths</a>
 - 6. <a href="https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1/">Power Of Numbers</a>
 - 8. <a href="https://practice.geeksforgeeks.org/problems/maximum-height-tree4803/1/">Maximum Height Tree</a>
