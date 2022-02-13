@@ -104,6 +104,7 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 2. <a href="https://leetcode.com/problems/stone-game/">Stone Game</a>
 - 3. <a href="https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/">Remove Colored Pieces if Both Neighbors are the Same Color</a>
 - 4. <a href="https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1/">Number of Unique Paths</a>
+- 5. <a href="https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1/">Transform to Sum Tree</a>
 - 6. <a href="https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1/">Power Of Numbers</a>
 - 8. <a href="https://practice.geeksforgeeks.org/problems/maximum-height-tree4803/1/">Maximum Height Tree</a>
 - 14. <a href="https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1/">Largest number in K swaps</a>
