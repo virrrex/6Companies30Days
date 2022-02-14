@@ -108,5 +108,6 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 6. <a href="https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1/">Power Of Numbers</a>
 - 7. <a href="https://practice.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1/">Sorted subsequence of size 3</a>
 - 8. <a href="https://practice.geeksforgeeks.org/problems/maximum-height-tree4803/1/">Maximum Height Tree</a>
+- 9. <a href="https://leetcode.com/problems/guess-number-higher-or-lower-ii/">Guess Number Higher or Lower II</a>
 - 14. <a href="https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1/">Largest number in K swaps</a>
 - 15. <a href="https://leetcode.com/problems/divide-two-integers/">Divide Two Integers</a>
