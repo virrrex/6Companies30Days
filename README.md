@@ -97,7 +97,7 @@ This Repository is a #ReviseWithArsh challenge where I'll be solving various que
 - 14. <a href="https://leetcode.com/problems/as-far-from-land-as-possible/">As Far from Land as Possible</a>
 - 15. <a href="https://leetcode.com/problems/koko-eating-bananas/">Koko Eating Bananas</a>
 
-### Day 21-25 :
+### Day 26-30 :
 #### Company: Walmart
 
 - 1. <a href="https://leetcode.com/problems/path-with-maximum-probability/">Path with Maximum Probability</a>
